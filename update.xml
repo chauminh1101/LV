@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Manifest version="1">
+  <CheckInterval>900</CheckInterval>
+  <RemoteConfigUri>http://etranle.hyperphp.com/update.xml</RemoteConfigUri>
+  <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
+  <BaseUri>http://nrotool.42web.io/update/</BaseUri>
+  <Payload>NROTool.zip</Payload>
+</Manifest>
+
+
